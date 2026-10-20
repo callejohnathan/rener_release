@@ -1,0 +1,34 @@
+{
+  "title": "RENER: annotated user story corpus and span-based NER model for semantic completeness",
+  "upload_type": "dataset",
+  "description": "<p>Annotated corpus of 1,663 user stories with seven span-level entity types (Actor, Function, Concept, Property, Restriction, Event Trigger, Event Entity), 186 synthetic training stories, the spaCy training configuration and the scripts used to reproduce the results of the article <em>Detecting Semantic Completeness in User Stories: A Span-Based Named Entity Recognition Approach</em>.</p><p>The user story texts are reused without modification from Dalpiaz (2018), Requirements data sets (user stories), Mendeley Data, doi:10.17632/7zbk8zsd8y.1, under CC BY 4.0. Data are released under CC BY 4.0; the code in <code>scripts/</code> is released under the MIT licence.</p>",
+  "creators": [
+    {
+      "name": "Calle Gallego, Johnathan Mauricio",
+      "affiliation": "Universidad de Medellín",
+      "orcid": "0000-0002-7297-1362"
+    },
+    {
+      "name": "Zapata Jaramillo, Carlos Mario",
+      "affiliation": "Universidad Nacional de Colombia"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "requirements engineering",
+    "user stories",
+    "named entity recognition",
+    "span categorization",
+    "semantic completeness"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17632/7zbk8zsd8y.1",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ],
+  "language": "eng"
+}

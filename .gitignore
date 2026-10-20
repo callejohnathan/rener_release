@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/*.spacy
+output_seed*/
+*.pdf
+!fig1.pdf

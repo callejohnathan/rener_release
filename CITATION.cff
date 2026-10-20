@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this corpus or code, please cite it as below, together with the original user story collection."
+title: "RENER: annotated user story corpus and span-based NER model for semantic completeness"
+type: dataset
+authors:
+  - family-names: "Calle Gallego"
+    given-names: "Johnathan Mauricio"
+    affiliation: "Universidad de Medellín"
+  - family-names: "Zapata Jaramillo"
+    given-names: "Carlos Mario"
+    affiliation: "Universidad Nacional de Colombia"
+repository-code: "https://github.com/callejohnathan/rener_release"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - requirements engineering
+  - user stories
+  - named entity recognition
+  - span categorization
+  - semantic completeness
+references:
+  - type: data
+    title: "Requirements data sets (user stories)"
+    authors:
+      - family-names: "Dalpiaz"
+        given-names: "Fabiano"
+    year: 2018
+    publisher:
+      name: "Mendeley Data"
+    doi: "10.17632/7zbk8zsd8y.1"
+    license: CC-BY-4.0
+  - type: article
+    title: "QUARE: towards a question-answering model for requirements elicitation"
+    authors:
+      - family-names: "Calle Gallego"
+        given-names: "Johnathan Mauricio"
+      - family-names: "Zapata Jaramillo"
+        given-names: "Carlos Mario"
+    journal: "Automated Software Engineering"
+    volume: 30
+    issue: 2
+    year: 2023
+    doi: "10.1007/s10515-023-00386-w"
