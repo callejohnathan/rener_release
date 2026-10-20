@@ -10,6 +10,9 @@ authors:
     given-names: "Carlos Mario"
     affiliation: "Universidad Nacional de Colombia"
 repository-code: "https://github.com/callejohnathan/rener_release"
+doi: "10.5281/zenodo.23507442"
+version: "v1.0.0"
+date-released: "2026-10-20"
 license:
   - MIT
   - CC-BY-4.0

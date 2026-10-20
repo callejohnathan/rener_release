@@ -1,5 +1,7 @@
 # RENER — Extended Entity Model for Semantic Completeness in User Stories
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23507442.svg)](https://doi.org/10.5281/zenodo.23507442)
+
 This repository accompanies the article *"Detecting Semantic Completeness in User Stories: A Span-Based Named Entity Recognition Approach"* by Johnathan Mauricio Calle Gallego (Universidad de Medellín) and Carlos Mario Zapata Jaramillo (Universidad Nacional de Colombia), submitted to *Automated Software Engineering* (Springer).
 
 It contains the final annotated corpus, the synthetic augmentation data used for training, the spaCy training configuration, and the scripts needed to reproduce the reported model and results. It intentionally contains **only the final, validated artifacts**: exploratory intermediate models, ablations, and the two discarded augmentation batches are described in the article but not included here.
@@ -139,7 +141,9 @@ The test set contains only 18 Restriction, 4 Event Trigger and 3 Event Entity in
 
 ## Citation
 
-If you use this corpus or code, please cite the article (full reference to be added on publication) and the original user story collection. Machine-readable metadata is in `CITATION.cff`.
+If you use this corpus or code, please cite the archived release, the article (full reference to be added on publication) and the original user story collection. Machine-readable metadata is in `CITATION.cff`.
+
+> Calle Gallego, J. M., & Zapata Jaramillo, C. M. (2026). *RENER: annotated user story corpus and span-based NER model for semantic completeness* (Version v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23507442
 
 Earlier version of RENER:
 
